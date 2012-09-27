@@ -18,7 +18,7 @@ module dcm_controller (
 
 	//Parameters:
 	//================================================
-	parameter MAXIMUM_MULTIPLIER = 88;
+	parameter MAXIMUM_MULTIPLIER = 96;
 	parameter MINIMUM_MULTIPLIER = 20;
 	parameter INITIAL_MULTIPLIER = 60;
 	parameter INITIAL_DIVIDER = 10;
